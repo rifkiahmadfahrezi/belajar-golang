@@ -6,6 +6,10 @@
    font-family: "Roboto", sans-serif, system-ui;
 }
 
+body{
+  padding: 10px;
+}
+
 .roboto-thin {
    font-family: "Roboto", sans-serif;
    font-weight: 100;
