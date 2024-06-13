@@ -1,10 +1,9 @@
 package main
 
 import (
-	latihan "go-dasar/latihan"
+	web "go-dasar/website"
 )
 
 func main() {
-	// latihan.IsPrimeNumber()
-	latihan.Faktorial()
+	web.StartServer()
 }
