@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	web.StartServer()
+	web.StartPartialRender()
 }
