@@ -1,9 +1,11 @@
 package main
 
 import (
-	web "go-dasar/website"
+	"fmt"
+	"go-dasar/routing"
 )
 
 func main() {
-	web.StartPartialRender()
+	fmt.Println("Hello world")
+	routing.StartRouting()
 }
